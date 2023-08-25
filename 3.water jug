@@ -41,6 +41,7 @@ print("192124151, " + name + "!")
 
 OUTPUT
 ================================================ RESTART: C:/Users/ajaya/Desktop/AI programs/water jug.py ===============================================
+
 Fill jug 1
 Pour 3 from jug 1 to jug 2
 Empty jug 2
@@ -48,3 +49,5 @@ Pour 1 from jug 1 to jug 2
 Fill jug 1
 Pour 2 from jug 1 to jug 2
 192124151, BAlAGUHAN!
+3, WATERJUGPROBLEM!
+

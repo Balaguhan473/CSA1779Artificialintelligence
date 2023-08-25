@@ -1,7 +1,7 @@
 def water_jug_problem(capacity_jug1, capacity_jug2, target):
-    jug1 = 0  # Initial amount of water in jug 1
-    jug2 = 0  # Initial amount of water in jug 2
-    steps = []  # To store the steps taken to reach the target
+    jug1 = 0  
+    jug2 = 0 
+    steps = []  
     
     while jug1 != target and jug2 != target:
         
@@ -37,15 +37,6 @@ for step in steps_taken:
 
 name = "BAlAGUHAN"
 print("192124151, " + name + "!")
-
-
-Fill jug 1
-Pour 3 from jug 1 to jug 2
-Empty jug 2
-Pour 1 from jug 1 to jug 2
-Fill jug 1
-Pour 2 from jug 1 to jug 2
-192124151, John!
 
 
 OUTPUT
